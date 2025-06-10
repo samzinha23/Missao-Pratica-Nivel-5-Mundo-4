@@ -18,10 +18,10 @@ Integrante: Samantha Karina Barbosa Torres.
 
 Repositório: https://github.com/samzinha23/Missao-Pratica-Nivel-5-Mundo-4.git
 
-Objetivos da prática
+<h1>Objetivos da prática</h1>
 
-      Como criar um Hub IoT do Azure;
-    Como registrar um novo dispositivo no Hub IoT;
-    Adicionando extensão Hub IoT do Azure para Visual Studio Code;
-    Gerenciando e interagindo com o Hub IoT .
+   Como criar um Hub IoT do Azure;
+   Como registrar um novo dispositivo no Hub IoT;
+   Adicionando extensão Hub IoT do Azure para Visual Studio Code;
+   Gerenciando e interagindo com o Hub IoT .
 
